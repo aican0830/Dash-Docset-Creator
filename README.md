@@ -6,7 +6,7 @@ amazing [Dash App](http://kapeli.com/dash/) for Mac
 
 1. Download / Extract Source to directory of your choosing
 2. Place all HTML files into the <strong>files_go_here</strong> dir
-3. Place an Icon (icon.png) into the <strong>icon_goes_here</strong> dir
+3. Place an Icon (icon.png) into the <strong>icon_goes_in_here</strong> dir
 4. Now edit the <strong>docset.config.php<strong> file
 
 ```php
